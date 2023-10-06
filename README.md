@@ -7,7 +7,10 @@ Il s'agit du projet 6 du parcours de la formation OpenClassRooms qui va permettr
 - Implémenter un modèle logique de données conformément à la réglementation
 - Stocker des données de manière sécurisée
 
-
+## Objectif à la fin projet:
+- Passer au Full Stack avec Node.js, Express et MongoDB
+- Sécuriser une application web avec l'OWASP
+- Adopter les API REST pour les projets web
 
 ## Piiquante
 
